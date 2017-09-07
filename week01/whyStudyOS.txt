@@ -1,1 +1,3 @@
 #hashlash
+
+By understanding how the operating system work, we can work on the computer (ex. when mantaining a server, setting the environment) and build our programs effectively and efficiently.
