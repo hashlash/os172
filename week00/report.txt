@@ -1,0 +1,8 @@
+#Muhammad_Ashlah_Shinfain
+
+Week00:
+- Register SSO account, Google account, Github account
+- Login to badak server using SSO credential
+    * if not using Faculty Lab's PC :
+        - connect to kawung.cs.ui.ac.id (using SSO credential)
+        - connect to badak.cs.ui.ac.id through kawung.cs.ui.ac.id
