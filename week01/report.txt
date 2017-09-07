@@ -1,0 +1,6 @@
+#Muhammad_Ashlah_Shinfain
+
+week01:
+- learn how to working remotely on a server
+- get to know on some basic CLI commands
+- familiarize using git version control
