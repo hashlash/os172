@@ -1,0 +1,16 @@
+w01-170904-16-PS-Lab01: familiarize working remotely using ssh + git version control basics
+w01-170904-16-PS-Lab01: familiarize working remotely using ssh + git version control basics
+w01-170904-17-PS-Lab01: familiarize working remotely using ssh + git version control basics
+w01-170905-13-PS-Handle multiple version of python (+additional knowledge: linux package management, symbolic link)
+w01-170905-13-PS-Handle multiple version of python (+additional knowledge: linux package management, symbolic link)
+w01-170905-14-PS-Handle multiple version of python (+additional knowledge: linux package management, symbolic link)
+w01-170905-14-PS-Handle multiple version of python (+additional knowledge: linux package management, symbolic link)
+w01-170905-16-LR-Operating System Course: Hak Kekayaan Intelektual + Scripting introduction - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w01-170905-16-LR-Operating System Course: Hak Kekayaan Intelektual + Scripting introduction - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w01-170905-17-LR-Operating System Course: Hak Kekayaan Intelektual + Scripting introduction - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w01-170907-16-LR-Operating System Course: Digging Deeper on Scripting with exercises - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w01-170907-16-LR-Operating System Course: Digging Deeper on Scripting with exercises - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w01-170907-17-LR-Operating System Course: Digging Deeper on Scripting with exercises - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w01-170907-20-PS-Lab01: reporting task that has been done + scripting basics
+w01-170907-21-PS-Lab01: reporting task that has been done + scripting basics
+w01-170907-21-PS-Lab01: reporting task that has been done + scripting basics
