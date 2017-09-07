@@ -20,3 +20,4 @@ drwxr-xr-x  2 muhammad.ashlah StafCS 4096 Sep  4 16:37 week09
 drwxr-xr-x  2 muhammad.ashlah StafCS 4096 Sep  4 16:37 week10
 drwxr-xr-x  2 muhammad.ashlah StafCS 4096 Sep  4 16:37 xtra
 /home/fasilkom/mahasiswa/m/muhammad.ashlah/os172/week01
+Today is 07 Sep 2017 at 22:29:02
