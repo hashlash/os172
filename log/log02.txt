@@ -1,0 +1,10 @@
+w02-170912-16-LR-Operating System Course: Protection and Security - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w02-170912-16-LR-Operating System Course: Domain Structure and Implementations - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w02-170912-17-LR-Operating System Course: Domain Structure and Implementations - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w02-170914-16-LR-Operating System Course: Introduction to C programming Language - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w02-170914-16-LR-Operating System Course: Introduction to C programming Language - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w02-170914-17-LR-Operating System Course: Pointer Concept - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w02-170914-17-DS-Discuss deeper understanding on pointer with Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w02-170916-11-PS-Lab02: Working on 2nd week task
+w02-170916-11-PS-Lab02: Working on 2nd week task
+w02-170916-12-PS-Lab02: Working on 2nd week task
