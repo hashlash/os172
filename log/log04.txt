@@ -1,0 +1,9 @@
+w02-170926-16-LR-Operating System Course: UNIX File System (File Descriptor, Open File Table, inode) - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w02-170926-16-LR-Operating System Course: UNIX File System (File Descriptor, Open File Table, inode) - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w02-170926-17-LR-Operating System Course: Example for file descriptor using c language - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w02-170928-16-LR-Operating System Course: Exercise for file descriptor details - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w02-170928-16-LR-Operating System Course: Explanation for file descriptor details - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w02-170928-17-LR-Operating System Course: Quiz 1 discussion - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w02-170928-21-PS-Lab04: Working on 4th week task
+w02-170928-21-PS-Lab04: Working on 4th week task
+w02-170928-22-PS-Lab04: Working on 4th week task
