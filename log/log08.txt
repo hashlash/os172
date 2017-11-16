@@ -1,3 +1,7 @@
+w08-171113-16-LR-Understanding week08 lab
 w08-171114-16-LR-Operating System Course: Scheduling (Introduction; Algorithms: FCFS, SJF) - Muhammad Anwar Ma'sum S.Kom., M.Kom.
 w08-171114-16-LR-Operating System Course: Scheduling (Algorithms: SJF-SRTF, Priority Scheduling, Round Robin) - Muhammad Anwar Ma'sum S.Kom., M.Kom.
 w08-171114-17-LR-Operating System Course: Scheduling (Exercise: http://rms46.vlsm.org/2/183.pdf 2010-1) - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w08-171114-16-LR-Operating System Course: Scheduling (Exercise: http://rms46.vlsm.org/2/183.pdf 2013-1) - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w08-171114-16-LR-Operating System Course: Scheduling (Exercise: http://rms46.vlsm.org/2/183.pdf 2013-2, 2015-1) - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w08-171114-17-LR-Operating System Course: Scheduling (Exercise: http://rms46.vlsm.org/2/183.pdf 2011-1, 2011-2) - Muhammad Anwar Ma'sum S.Kom., M.Kom.
