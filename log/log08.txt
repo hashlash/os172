@@ -5,3 +5,4 @@ w08-171114-17-LR-Operating System Course: Scheduling (Exercise: http://rms46.vls
 w08-171114-16-LR-Operating System Course: Scheduling (Exercise: http://rms46.vlsm.org/2/183.pdf 2013-1) - Muhammad Anwar Ma'sum S.Kom., M.Kom.
 w08-171114-16-LR-Operating System Course: Scheduling (Exercise: http://rms46.vlsm.org/2/183.pdf 2013-2, 2015-1) - Muhammad Anwar Ma'sum S.Kom., M.Kom.
 w08-171114-17-LR-Operating System Course: Scheduling (Exercise: http://rms46.vlsm.org/2/183.pdf 2011-1, 2011-2) - Muhammad Anwar Ma'sum S.Kom., M.Kom.
+w08-171118-01-PR-Working on week 08 task
